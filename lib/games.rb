@@ -12,7 +12,7 @@ class Games
   end
 
   def summary
-    headers + "\n" + all_events_summary
+     headers + "\n" + all_events_summary
   end
 
   def headers
