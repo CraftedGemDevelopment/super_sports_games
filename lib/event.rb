@@ -39,3 +39,6 @@ class Event
         answer.round(2)
   end
 end
+
+
+
